@@ -1,0 +1,5 @@
+{
+  "minVersion": "0.11.0",
+  "recommendedVersion": "0.11.0",
+  "releaseUrlPattern": "https://github.com/RoboNET/FlexRender/releases/download/v{version}/flexrender-{version}-{rid}.tar.gz"
+}

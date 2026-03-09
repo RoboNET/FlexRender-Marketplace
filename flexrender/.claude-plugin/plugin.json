@@ -1,0 +1,12 @@
+{
+  "name": "flexrender",
+  "version": "0.1.0",
+  "description": "FlexRender template authoring, C# integration, and CLI tools for Claude Code",
+  "author": { "name": "RoboNET" },
+  "homepage": "https://github.com/RoboNET/FlexRender",
+  "repository": "https://github.com/RoboNET/FlexRender-Marketplace",
+  "license": "MIT",
+  "keywords": ["flexrender", "yaml", "template", "image-generation", "receipt", "skia"],
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks.json"
+}
