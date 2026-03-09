@@ -6,10 +6,10 @@ Skills and tools for working with [FlexRender](https://github.com/RoboNET/FlexRe
 
 ```bash
 # 1. Add the marketplace (one-time)
-claude plugins add-marketplace https://github.com/RoboNET/FlexRender-Marketplace
+claude plugin marketplace add https://github.com/RoboNET/FlexRender-Marketplace
 
 # 2. Install the plugin
-claude plugins install flexrender@FlexRender-Marketplace
+claude plugin install flexrender@FlexRender-Marketplace
 ```
 
 ## Skills
