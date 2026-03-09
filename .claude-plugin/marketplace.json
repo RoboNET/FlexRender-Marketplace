@@ -1,0 +1,24 @@
+{
+  "name": "FlexRender-Marketplace",
+  "owner": {
+    "name": "RoboNET"
+  },
+  "metadata": {
+    "description": "Official marketplace for FlexRender plugins",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "flexrender",
+      "source": "./plugins/flexrender",
+      "description": "FlexRender template authoring, C# integration, and CLI tools for Claude Code",
+      "version": "0.1.0",
+      "author": {
+        "name": "RoboNET"
+      },
+      "homepage": "https://github.com/RoboNET/FlexRender",
+      "license": "MIT",
+      "keywords": ["flexrender", "yaml", "template", "image-generation", "receipt", "skia"]
+    }
+  ]
+}
